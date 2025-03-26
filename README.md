@@ -17,4 +17,6 @@ A client-server chat application allows multiple clients to connect to a central
 
 #output:
 
+![Image](https://github.com/user-attachments/assets/7fe00082-cc3a-4366-8b3c-051b22b16bd3)
+
 ![Image](https://github.com/user-attachments/assets/7fa4835c-4a58-44a1-972e-aeec32baeab9)
