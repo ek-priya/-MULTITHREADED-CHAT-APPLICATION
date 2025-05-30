@@ -7,7 +7,7 @@ A Java-based client-server chat application that supports multiple users simulta
 
 #### BUILDING A CLIENT-SERVER CHAT APPLICATION  USING JAVA SOCKETS AND  MULTITHREADING TO HANDLE MULTIPLE  USERS.
 
-## Project Details
+## Internship Project Details
 Company: CodTech IT Solutions
 
 Intern: Earle Keerthi Priya
