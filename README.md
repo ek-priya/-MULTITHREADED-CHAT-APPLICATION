@@ -1,19 +1,55 @@
-# MULTITHREADED-CHAT-APPLICATION
 
-*COMPANY*: CODTECH IT SOLUTIONS
+# Multi-Threaded Chat Application
 
-*NAME*: EARLE KEERTHI PRIYA
+A Java-based client-server chat application that supports multiple users simultaneously using sockets and multithreading. Each client is handled in a separate thread, allowing real-time communication across a shared server.
 
-*INTERN ID*: CT6WTKW
 
-*DOMAIN*: JAVAPROGRMMING
-
-*DURATION*: 6 WEEKS
-
-*MENTOR*: NEELA SANTOSH
 
 #BUILDING A CLIENT-SERVER CHAT APPLICATION  USING JAVA SOCKETS AND  MULTITHREADING TO HANDLE MULTIPLE  USERS.
-A client-server chat application allows multiple clients to connect to a central server and exchange messages. The server listens for incoming connections and assigns a separate thread to handle each connected client.
+
+### Project Details
+Company: CodTech IT Solutions
+
+Intern: Earle Keerthi Priya
+
+Intern ID: CT6WTKW
+
+Domain: Java Programming
+
+Duration: 6 Weeks
+
+Mentor: Neela Santosh
+
+
+
+
+
+
+
+
+## Features
+Real-time messaging between multiple clients
+
+Server-side multithreading for concurrent client handling
+
+Clean separation of client and server logic
+
+Console-based user interface
+
+## Tech Stack
+
+
+Java
+
+Java Sockets (java.net)
+
+Multithreading (java.lang.Thread)
+
+
+
+
+
+
 
 #output:
 
