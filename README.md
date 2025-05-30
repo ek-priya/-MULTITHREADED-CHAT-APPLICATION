@@ -5,9 +5,9 @@ A Java-based client-server chat application that supports multiple users simulta
 
 
 
-#BUILDING A CLIENT-SERVER CHAT APPLICATION  USING JAVA SOCKETS AND  MULTITHREADING TO HANDLE MULTIPLE  USERS.
+#### BUILDING A CLIENT-SERVER CHAT APPLICATION  USING JAVA SOCKETS AND  MULTITHREADING TO HANDLE MULTIPLE  USERS.
 
-### Project Details
+## Project Details
 Company: CodTech IT Solutions
 
 Intern: Earle Keerthi Priya
@@ -51,7 +51,7 @@ Multithreading (java.lang.Thread)
 
 
 
-#output:
+# output:
 
 ![Image](https://github.com/user-attachments/assets/7fe00082-cc3a-4366-8b3c-051b22b16bd3)
 
